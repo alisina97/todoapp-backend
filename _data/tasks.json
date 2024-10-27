@@ -1,0 +1,13 @@
+[
+  {
+    "name" : "Finish homework and do laundary",
+    "duedate" : "2025-01-01"
+  },
+  {
+  "name" : "Help dad buying groceries",
+  "duedate" : "2024-10-15"
+},   {
+  "name" : "Pick up Alex from school",
+  "duedate" : "2024-12-01"
+}
+]
